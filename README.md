@@ -1,2 +1,1 @@
-# GANS
-Machine Leaning project for 6th semester.
+# GENERATIVE ADVERSARIAL NETWORKS
